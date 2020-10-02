@@ -1,1 +1,2 @@
-# GeekyIndian.GitHub.io
+# GeekyIndian
+***An Indian Student in love with programming and technology
