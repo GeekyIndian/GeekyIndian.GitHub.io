@@ -1,2 +1,2 @@
 # GeekyIndian
-*** An Indian Student in love with programming and technology
+***An Indian Student in love with programming and technology
